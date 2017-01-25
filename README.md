@@ -1,2 +1,2 @@
-# TeleportPlugin.PMMP-Plugin
+# TeleportPlugin_PMMP-Plugin
 テレポート要素を追加するプラグインです
